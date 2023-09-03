@@ -1,3 +1,2 @@
 # Mina
-My OC.
-but design by @wxz
+My OC, designed by [@wxz](https://github.com/wxsonz).
