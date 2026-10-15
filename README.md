@@ -1,6 +1,6 @@
 # Mina lore.
 
-Born on the 11th of *June*, 19 years old as of writing this.
+Born on the 11th of *June*, 22 years old as of the last update to this repo.
 
 Her favorite color is green. Perhaps that’s her coping mechanism for being born with green hair.
 
